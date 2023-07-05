@@ -1,0 +1,48 @@
+.contenedor{
+    display: flex;
+}
+.izquierda{
+    flex:1;
+    margin:10px;
+}
+.derecha{
+    flex:1;
+    margin:10px;
+}
+button{
+    margin-top: 10px;
+}
+.mensaje{
+    color: rgb(163, 29, 29);
+}
+.primertitulo{
+    color:rgb(40, 40, 228);
+}
+.segundotitulo{
+    color:rgb(66, 201, 133);
+}
+.formulario{
+    background-color: rgb(63, 62, 62);
+    color:white;
+    width: 200px;
+    padding:15px;
+    border-radius: 5%;
+}
+.btn1{
+    border-radius: 1%;
+    background-color: rgb(40, 40, 228);
+    color:white;
+}
+.btn2{
+    border-radius: 1%;
+    background-color: rgb(66, 201, 133);
+    color:white;
+}
+.bienvenida{
+    text-align: center;
+}
+.btn3{
+    border-radius: 1%;
+    background-color: rgb(55, 204, 204);
+    color:white;
+}
